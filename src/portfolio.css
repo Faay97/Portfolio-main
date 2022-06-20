@@ -129,6 +129,11 @@ footer .logo {
   margin: 0;
   padding: 25px;
 }
+.dictionarypic {
+  display: block;
+  margin: 0 auto;
+  height: 540px;
+}
 .js-img {
   height: 434px;
 }
@@ -207,6 +212,11 @@ body {
   }
   .content-whole .proj-h1 {
     padding: 10px;
+  }
+  .dictionarypic,
+  .js-img {
+    height: 225px;
+    width: 310px;
   }
   .mail {
     margin-top: 0;
